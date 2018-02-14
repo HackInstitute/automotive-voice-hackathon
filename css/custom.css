@@ -1,6 +1,6 @@
 /* used the blue for links, so we use only the other three colors here */
 .google {
-    color: #fff;
+    color: #F03F22;
 }
 #speakers h2.google, #prizes h2.google, #join h2.google:nth-of-type(1), #partner div:nth-of-type(1) h2.google {
     color: #FFBE00;
