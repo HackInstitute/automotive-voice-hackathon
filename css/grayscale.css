@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #3E82F7;
+    color: #3da9e5;;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -144,7 +144,7 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #000;
+    color: #fff;
     background: url(../img/background-banner.png) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
@@ -167,34 +167,37 @@ a:focus {
 }
 
 .intro .intro-keywords {
+    color: #fff;
     font-size: 30px;
     color: #1B191C;
-    text-shadow: 0 0 20px white;
+    text-shadow: 0 0 20px black;
     padding-top: 1em;
 }
 
 .intro h1.brand-heading {
+    color: #fff;
     font-size: 40px;
     font-weight: 300;
-    text-shadow: 0 0 20px white;
+    text-shadow: 0 0 20px black;
 }
 
 .intro h1.brand-heading strong {
+  color: #fff;
   font-weight: 500;
 }
 
 .intro h2.brand-heading {
-    color: #1B191C;
+    color: #fff;
     font-size: 30px;
     font-weight: 300;
-    text-shadow: 0 0 20px white;
+    text-shadow: 0 0 20px black;
 }
 
 .intro .intro-text {
     font-size: 18px;
     color: #1B191C;
     font-weight: 400;
-    text-shadow: 0 0 20px white;
+    text-shadow: 0 0 20px black;
 }
 
 .intro .btn-circle {
@@ -221,7 +224,9 @@ a:focus {
     }
 
     .intro .intro-keywords {
+        color: #fff;
         padding-top: 3em;
+        text-shadow: 0 0 20px black;
     }
 
     .intro .intro-text {
