@@ -201,8 +201,8 @@ a:focus {
 }
 
 .intro .btn-circle {
-    border-color: black;
-    color: black;
+    border-color: white;
+    color: white;
 }
 
 @media(min-width:767px) {
